@@ -3,8 +3,8 @@
 A Deep Reinforcement Learning project focused on training an autonomous spacecraft agent to safely land on a designated landing pad using the Box2D physics engine physics simulator. 
 
 ## Developer Information
-* **Name:** Lakshay Saini
-* **Registration Number:** 23BAI10890
+* **Name:** Abhiraj Gahlot
+* **Registration Number:** 23BAI10055
 
 
 ---
