@@ -1,14 +1,14 @@
 # 🚗 Car Price Prediction System
 
-**Name:** Lakshay Saini  
+**Name:** Abhiraj Gahlot  
 
-**Registration Number:** 23BAI10890
+**Registration Number:** 23BAI10055
 
-**Application Number:** IN26012144
+**Application Number:** IN26011317
 
 **Batch Number:** 2B
 
-**Email ID:** lakshaysaini210905@gmail.com
+**Email ID:** jattabhiraj26@gmail.com
 
 A machine learning project that predicts the **selling price of used cars** using a **Random Forest Regressor**, saved with Pickle and deployed as a **Flask web application**.
 
