@@ -6,7 +6,7 @@
 
 **Application Number:** IN26011317
 
-**Batch Number:** 2B
+**Batch Number:** 1A
 
 **Email ID:** jattabhiraj26@gmail.com
 
